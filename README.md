@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kertsid
-- 👀 I’m interested in AI & ML andn MLOps
+- 👀 I’m interested in AI & ML and MLOps
 - 🌱 I’m currently learning MLOps tools and Gen AI
 - 💞️ I’m looking to collaborate on ML & AI projects
 
